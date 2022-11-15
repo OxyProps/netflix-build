@@ -1,0 +1,10 @@
+img.o-widescreen,
+img.o-portrait {
+  transition: scale 0.45s;
+}
+img.o-widescreen:hover {
+  scale: 1.08;
+}
+img.o-portrait:hover {
+  scale: 1.09;
+}
